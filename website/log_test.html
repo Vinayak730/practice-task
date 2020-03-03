@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Login form</title>
+        <link rel="stylesheet" href="global.css">
+    </head>
+
+    <body style="background-color: darkcyan;">
+
+        <script>
+            function login()
+            {
+                var uem=document.forms["myform"]["uemail"].value;
+                var pass=document.forms["myform"]["pwd"].value;
+
+                if(uem=="vinayakthedion@gmail.com")
+                {
+                    if(pass="haildion")
+                    { window.open('successful.html'); }
+                    else
+                    { alert("incorrect email or password"); }
+                }
+                else
+                { alert("incorrect email or password");}
+            }
+        </script>
+
+    <div class="form-container">        
+        <form name="myform">
+            Email   :<input type="text" name="uemail"><br>
+            Password:<input type="password" name="pwd"><br>
+            <input type="submit" value="submit" onclick="login()">
+        </form>
+    </div>
+
+    </body>
+
+</html>
