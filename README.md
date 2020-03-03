@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Vinayak's personal website
 
-You can use the [editor on GitHub](https://github.com/Vinayak730/practice-task/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Moto of this website
+> all the best things can go wrong
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+This website will be of the famous Hindi TV Series **Sacred Games**.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## About the Series
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**Sacred** Games is an Indian web television thriller series based on Vikram Chandra's 2006 novel of the same name. The first Netflix original series in India, it is directed by nilesh darji and aman goswami who produced it under their banner Phantom Films. The novel was adapted by varun Grover, Singh and Vasant Nath. Kelly Luegenbiehl, Erik Barmack and Motwane served as the executive producers. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## List of actors acting i
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vinayak730/practice-task/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
