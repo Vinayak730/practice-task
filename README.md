@@ -1,20 +1,15 @@
-## Welcome to Vinayak's personal website
+***Vinayak R Pillai***
 
+***S2 CSE-C***
 
-### Moto of this website
-> all the best things can go wrong
+***AM.EN.U4CSE19260***
 
+## ***WELCOME TO MY PERSONAL BLOG***
 
+The reason why I wanted to join **AMRITA CS-STAR** is that i wish to learn more about computing and enjoy the latest CS techniques.
 
-This website will be of the famous Hindi TV Series **Sacred Games**.
+I am intersted in the field of Web content management, Wireless sensor networks and Data analytics.
 
-
-## About the Series
-
-
-**Sacred** Games is an Indian web television thriller series based on Vikram Chandra's 2006 novel of the same name. The first Netflix original series in India, it is directed by nilesh darji and aman goswami who produced it under their banner Phantom Films. The novel was adapted by varun Grover, Singh and Vasant Nath. Kelly Luegenbiehl, Erik Barmack and Motwane served as the executive producers. 
-
-
-## List of actors acting i
+If i'm selected to the club, i would like to work on Wireless Sensor Networks. The main reason I would like to join this field is because i'm intersted to know how these systems works and how to improve new ones.
 
 
